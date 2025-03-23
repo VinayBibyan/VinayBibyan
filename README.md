@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 B.Tech student | Fullstack Developer <br>- 💻 Passionate about MERN stack, C++, and AI-driven solutions <br>- 🌱 Learning: Advanced Development and DSA<br>- 📫 Reach me at: vinaybibyan09@gmail.com
+ 🎓 B.Tech student | Fullstack Developer <br> 💻 Passionate about MERN stack, C++, and AI-driven solutions <br> 🌱 Learning: Advanced Development and DSA<br> 📫 Reach me at: vinaybibyan09@gmail.com
 
 
 ## 🌐 Socials:
